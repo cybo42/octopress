@@ -1,3 +1,13 @@
+## Credit  
+This setup was originally forked from: [/imathis/octopress](https://github.com/imathis/octopress) and
+customized for my purposes.
+
+Modifications
+1. Updated rvmrc to specify an octopress gemset to keep things tidy.
+2. Updated gems and plugins/pygments_code.rb to enable groovy & gradle syntax highlighting.
+
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
